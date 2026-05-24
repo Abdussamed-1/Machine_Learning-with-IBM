@@ -59,5 +59,4 @@ Then you can open and run the relevant notebook file.
 This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Contact
-
 For questions or suggestions, please open an issue or submit a pull request.
